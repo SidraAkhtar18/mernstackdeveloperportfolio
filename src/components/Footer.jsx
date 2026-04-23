@@ -4,7 +4,7 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   const quickLinks = [
-    { name: "Home", href: "#Navbar" },
+    { name: "Home", href: "#hero" },
     { name: "Projects", href: "#projects" },
     { name: "Technologies", href: "#technologies" },
     { name: "Experience", href: "#experience" },

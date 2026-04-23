@@ -1,6 +1,6 @@
 import React from "react";
 import { FaReact, FaCode, FaLaptopCode } from "react-icons/fa";
-import { SiNextdotjs, SiRedux, SiTailwindcss, SiMongodb, SiExpress, SiNodedotjs } from "react-icons/si";
+import { SiNextdotjs, SiRedux, SiTailwindcss, SiMongodb, SiExpress, SiNodedotjs, SiContactlesspayment } from "react-icons/si";
 
 const Experience = () => {
   return (
@@ -396,6 +396,9 @@ const Experience = () => {
                 </div>
                 <div className="tech-badge">
                   <SiTailwindcss /> Tailwind CSS
+                </div>
+                <div className="tech-badge">
+                  <SiContactlesspayment /> Stripe
                 </div>
               </div>
             </div>

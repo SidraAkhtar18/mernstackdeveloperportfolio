@@ -25,6 +25,7 @@ import {
   SiCanva,
   SiLaravel,
   SiGithub,
+  SiPaytm,
 } from "react-icons/si";
 
 import { MdApi } from "react-icons/md";
@@ -53,6 +54,7 @@ const Technologies = () => {
         { name: "Node.js", icon: <FaNodeJs color="#339933" size={28} /> },
         { name: "Express.js", icon: <SiExpress color="#000000" size={28} /> },
         { name: "API Integration", icon: <MdApi color="#0EA5E9" size={28} /> },
+        {name:"Stipe Payment Gateway", icon:<SiPaytm color="#00758F" size={28} />},
         { name: "Authentication", icon: <FaLock color="#EF4444" size={28} /> },
       ],
     },

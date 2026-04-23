@@ -9,20 +9,19 @@ const Projects = () => {
   title: "Farm2Market",
   description:
     "Farm2Market is a mobile platform that connects farmers directly with shopkeepers, eliminating middlemen and enabling fair pricing, faster delivery, and easier ordering of fresh agricultural products.",
-  tech: ["React Native", "Node.js", "MongoDB", "Express"],
+  tech: ["React Native", "Node.js", "MongoDB", "Express", "Stripe Payment Gateway", "Render","Vercel"],
   img: "FARM2MARKET.png",
-  live: "https://github.com/SidraAkhtar18/Farm2Market",
-  status: "In Progress Contact Me For Demo",
+  live: "https://drive.google.com/drive/folders/1uOnCDN8jtYjrww0m-mzgCBDxyHdl1dAs",
+  status: "Completed",
 },
      {
       title: "Doctor On Call",
       description: "A healthcare platform for booking doctor appointments and managing patient records.",
-      tech: ["Reactjs", "Tailwind CSS","Web3form", "Node.js", "MongoDB", "Express"  ],
+      tech: ["Reactjs", "Tailwind CSS","Web3form", "Node.js", "MongoDB", "Express", "Stripe Payment Gateway"  ],
       img: "image.png",
-
       Github:"https://github.com/SidraAkhtar18/DoctorOnCall",
-        
-      status: "Completed",
+      live: "https://github.com/SidraAkhtar18/DoctorOnCall",    
+      status: "Onprogress",
     },
     {
       title: "HMA KHADDER-ECOMMERCE SITE",
